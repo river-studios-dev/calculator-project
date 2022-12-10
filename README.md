@@ -4,7 +4,7 @@
 
 <ul>
 <li>Rota (Verbo POST): localhost:8081/calc</li>
-<li>Parametros: 
+<li>Paraâmetros: 
 <ul>
 <li>n1: Primero número</li>
 <li>n2: Segundo número</li>
