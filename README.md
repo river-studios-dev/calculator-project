@@ -3,7 +3,7 @@
 <i>Dupla: João Pedro e Luiz Eduardo</i>
 
 <ul>
-<li>Rota: localhost:8081/calc</li>
+<li>Rota (Verbo POST): localhost:8081/calc</li>
 <li>Parametros: 
 <ul>
 <li>n1: Primero número</li>
